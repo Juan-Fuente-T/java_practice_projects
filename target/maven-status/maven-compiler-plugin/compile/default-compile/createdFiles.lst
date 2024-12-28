@@ -1,0 +1,5 @@
+com\juanfuente\spring_boot_jokes_app\services\JokeService.class
+com\juanfuente\spring_boot_jokes_app\services\JokeServiceImpl.class
+com\juanfuente\spring_boot_jokes_app\SpringBootJokesAppApplication.class
+com\juanfuente\spring_boot_jokes_app\config\ChuckConfiguration.class
+com\juanfuente\spring_boot_jokes_app\controllers\JokesController.class
