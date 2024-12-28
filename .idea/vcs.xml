@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/injected-dependencies-SPGGithub/sfg-di" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-petclinic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring5-jokes-app-v2" vcs="Git" />
   </component>
 </project>
