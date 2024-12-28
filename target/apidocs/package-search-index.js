@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.juanfuente.spring_boot_jokes_app"},{"l":"com.juanfuente.spring_boot_jokes_app.config"},{"l":"com.juanfuente.spring_boot_jokes_app.controllers"},{"l":"com.juanfuente.spring_boot_jokes_app.services"}];updateSearchResults();
