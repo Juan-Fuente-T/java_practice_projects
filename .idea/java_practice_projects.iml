@@ -2,7 +2,18 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/sfg-di/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/sfg-di/target" />
+      <excludeFolder url="file://$MODULE_DIR$/simplewebApp/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/simplewebApp/target" />
+      <excludeFolder url="file://$MODULE_DIR$/spring-pet-clinic/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/spring-pet-clinic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/spring-petclinic/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/spring-petclinic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/spring_petclinic/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/spring_petclinic/target" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
